@@ -96,5 +96,7 @@ namespace MagicMirror.ConsoleApp
             else
                 return "night";
         }
+
+
     }
 }
